@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(230, 202, 202);
+    font-family: Arial, sans-serif;
+}
+
+.morado-sombra {
+    color: purple;
+    text-shadow: 2px 2px 6px #00000088;
+}
